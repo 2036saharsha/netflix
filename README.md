@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-https://www.saharsha-netflix-clone.web.app
+www.saharsha-netflix-clone.web.app
 
 ## Available Scripts
 
